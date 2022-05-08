@@ -1,6 +1,6 @@
 # DifferentialEquationsMathematicaPopulationLab
 
-A mathemetica project to analyze populations using differential equations.
+A mathematica project to analyze populations using differential equations.
 
 Pdf of lab write up
 https://docs.google.com/document/d/1ImlTTYX-m4wjkczsYxlEvv8jMY01PCj2XRrCYYcVJ2k/edit?usp=sharing
